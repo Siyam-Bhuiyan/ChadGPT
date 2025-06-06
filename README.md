@@ -1,1 +1,1 @@
-# ChadGPT
+Unhinged chatbot with WiFi access and no moral compass.
